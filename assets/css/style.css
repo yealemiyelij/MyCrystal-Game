@@ -1,0 +1,147 @@
+body {
+	background: url("../images/concrete-textures.jpg");
+	border: Solid;
+	height: 620px;
+	margin-left: 300px;
+	margin-right: 200px;
+	padding-bottom: 70px;
+	width: auto;
+}
+
+header {
+	height: 70px;
+	/*background-color: #3092c7;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-left: 200px;*/
+	font-size: 2.5em;
+}
+
+#name {
+	padding-left: 15px;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.paragraph {
+	width: 1000px;
+	/*height: 200px;*/
+	background-color: #ECECDE;
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+li {
+	font-size: 16px;
+}
+
+#clicker {
+	display: none;
+}
+
+.crystals {
+	/*border: solid;
+	width: auto;
+	height: auto;*/
+	position: center;
+	/*background-color: blue;*/
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+
+p {
+	color: green;
+	padding: 5px;
+}
+
+.start {
+	height: auto;
+	width: auto;
+	/*display: inline-block;*/
+}
+
+.total {
+	/*width: Auto;
+	height: Auto;
+	background-color: #49E692;
+	margin-right: 10px;*/
+	font-size: 18px;
+	color: #8A358F;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	/*border: 1px solid green;*/
+}
+
+.total a {
+	vertical-align: middle;
+}
+
+.result {
+	font-size: 1.5em;
+	width: auto;
+	height: Auto;
+	margin-left: 15px;
+	padding-bottom: 10px;
+}
+
+#wins {
+	background: green;
+	font-size: 1.5em;
+	width: auto;
+	height: Auto;
+	margin-left: 15px;
+	padding-bottom: 10px;
+}
+
+#losses {
+	background: red;
+	font-size: 1.5em;
+	width: auto;
+	height: Auto;
+	margin-left: 15px;
+	padding-bottom: 10px;
+}
+
+.click {
+	width: 100px;
+	height: 80px;
+	margin: 10px;
+}
+
+#blue {
+	color: #3092c7;
+}
+
+#white {
+	color: #00aa59;
+}
+
+#red {
+	color: #ec4b5f;
+}
+
+#yellow {
+	color: #ffc225;
+}
+
+.score {
+	width: auto;
+	height: auto;
+	/*background-color: #12B5A2;*/
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+.addition {
+	width: auto;
+	height: auto;
+	/*background-color: #12B5A2;*/
+	font-size: 30px;
+	color: white;
+	margin-left: 15px;
+}
+
+
+}
